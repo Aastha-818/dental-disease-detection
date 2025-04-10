@@ -134,7 +134,7 @@ def main():
         "Confidence Threshold", 
         min_value=0.0, 
         max_value=1.0, 
-        value=0.3,
+        value=0.83,
         help="Minimum confidence needed to classify as a known disease"
     )
     
