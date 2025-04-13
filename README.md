@@ -3,7 +3,6 @@ Automatic Dental Disease Detection System
 
 This project is a machine learning-powered web application that helps identify common dental diseases from images using a Convolutional Neural Network (CNN). It features a full model training pipeline and a Streamlit-based frontend for predictions.
 
----
 
 ## 🚀 Features
 
@@ -18,7 +17,7 @@ This project is a machine learning-powered web application that helps identify c
 - ⚠️ Identifies low-confidence or unknown disease cases.
 - 🛠️ Train your own model using the included training pipeline.
 
----
+
 
 ## 🧪 Tech Stack
 
@@ -30,6 +29,6 @@ This project is a machine learning-powered web application that helps identify c
 - NumPy
 - scikit-learn
 
----
+
 
 
